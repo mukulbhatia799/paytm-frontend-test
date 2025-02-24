@@ -36,7 +36,6 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Hello deploy'
                 // sh "docker run -d -p 5173:5173 paytm.app:latest"
                 sh "docker compose up -d"
             }
