@@ -1,6 +1,6 @@
 version: "3.3"
 services:
   web:
-    image: mukulbhatia189/paytm.app:latest
+    image: "mukulbhatia189/paytm.app:latest"
     ports:
       - "5173:5173"
