@@ -9,3 +9,5 @@ I have used React so that the code for each sections of the page could be compar
 3. and a Footer component.
 
 I have used only CSS for styling.
+
+<!-- adding comment to readme -->
